@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../CurrencyConverter/CurrencyConverter.csproj" Id="98710116-d0df-4a16-839b-6a66f4ee8781" />
+  <Project Path="InterestCalculator.csproj" />
+</Solution>
