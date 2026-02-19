@@ -1,0 +1,30 @@
+D:\ProgrammingStuff\CS222_CS2202_UrgellesJonMarcM\Pentagon Class\bin\Debug\net10.0\Pentagon Class.exe
+D:\ProgrammingStuff\CS222_CS2202_UrgellesJonMarcM\Pentagon Class\bin\Debug\net10.0\Pentagon Class.deps.json
+D:\ProgrammingStuff\CS222_CS2202_UrgellesJonMarcM\Pentagon Class\bin\Debug\net10.0\Pentagon Class.runtimeconfig.json
+D:\ProgrammingStuff\CS222_CS2202_UrgellesJonMarcM\Pentagon Class\bin\Debug\net10.0\Pentagon Class.dll
+D:\ProgrammingStuff\CS222_CS2202_UrgellesJonMarcM\Pentagon Class\bin\Debug\net10.0\Pentagon Class.pdb
+D:\ProgrammingStuff\CS222_CS2202_UrgellesJonMarcM\Pentagon Class\obj\Debug\net10.0\Pentagon Class.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgrammingStuff\CS222_CS2202_UrgellesJonMarcM\Pentagon Class\obj\Debug\net10.0\Pentagon Class.AssemblyInfoInputs.cache
+D:\ProgrammingStuff\CS222_CS2202_UrgellesJonMarcM\Pentagon Class\obj\Debug\net10.0\Pentagon Class.AssemblyInfo.cs
+D:\ProgrammingStuff\CS222_CS2202_UrgellesJonMarcM\Pentagon Class\obj\Debug\net10.0\Pentagon Class.csproj.CoreCompileInputs.cache
+D:\ProgrammingStuff\CS222_CS2202_UrgellesJonMarcM\Pentagon Class\obj\Debug\net10.0\Pentagon Class.sourcelink.json
+D:\ProgrammingStuff\CS222_CS2202_UrgellesJonMarcM\Pentagon Class\obj\Debug\net10.0\Pentagon Class.dll
+D:\ProgrammingStuff\CS222_CS2202_UrgellesJonMarcM\Pentagon Class\obj\Debug\net10.0\refint\Pentagon Class.dll
+D:\ProgrammingStuff\CS222_CS2202_UrgellesJonMarcM\Pentagon Class\obj\Debug\net10.0\Pentagon Class.pdb
+D:\ProgrammingStuff\CS222_CS2202_UrgellesJonMarcM\Pentagon Class\obj\Debug\net10.0\Pentagon Class.genruntimeconfig.cache
+D:\ProgrammingStuff\CS222_CS2202_UrgellesJonMarcM\Pentagon Class\obj\Debug\net10.0\ref\Pentagon Class.dll
+D:\ProgrammingStuff\CS222_CS2202_UrgellesJonMarcM\Laboratory Activity 1\01 - Pentagon Class\bin\Debug\net10.0\Pentagon Class.exe
+D:\ProgrammingStuff\CS222_CS2202_UrgellesJonMarcM\Laboratory Activity 1\01 - Pentagon Class\bin\Debug\net10.0\Pentagon Class.deps.json
+D:\ProgrammingStuff\CS222_CS2202_UrgellesJonMarcM\Laboratory Activity 1\01 - Pentagon Class\bin\Debug\net10.0\Pentagon Class.runtimeconfig.json
+D:\ProgrammingStuff\CS222_CS2202_UrgellesJonMarcM\Laboratory Activity 1\01 - Pentagon Class\bin\Debug\net10.0\Pentagon Class.dll
+D:\ProgrammingStuff\CS222_CS2202_UrgellesJonMarcM\Laboratory Activity 1\01 - Pentagon Class\bin\Debug\net10.0\Pentagon Class.pdb
+D:\ProgrammingStuff\CS222_CS2202_UrgellesJonMarcM\Laboratory Activity 1\01 - Pentagon Class\obj\Debug\net10.0\Pentagon Class.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgrammingStuff\CS222_CS2202_UrgellesJonMarcM\Laboratory Activity 1\01 - Pentagon Class\obj\Debug\net10.0\Pentagon Class.AssemblyInfoInputs.cache
+D:\ProgrammingStuff\CS222_CS2202_UrgellesJonMarcM\Laboratory Activity 1\01 - Pentagon Class\obj\Debug\net10.0\Pentagon Class.AssemblyInfo.cs
+D:\ProgrammingStuff\CS222_CS2202_UrgellesJonMarcM\Laboratory Activity 1\01 - Pentagon Class\obj\Debug\net10.0\Pentagon Class.csproj.CoreCompileInputs.cache
+D:\ProgrammingStuff\CS222_CS2202_UrgellesJonMarcM\Laboratory Activity 1\01 - Pentagon Class\obj\Debug\net10.0\Pentagon Class.sourcelink.json
+D:\ProgrammingStuff\CS222_CS2202_UrgellesJonMarcM\Laboratory Activity 1\01 - Pentagon Class\obj\Debug\net10.0\Pentagon Class.dll
+D:\ProgrammingStuff\CS222_CS2202_UrgellesJonMarcM\Laboratory Activity 1\01 - Pentagon Class\obj\Debug\net10.0\refint\Pentagon Class.dll
+D:\ProgrammingStuff\CS222_CS2202_UrgellesJonMarcM\Laboratory Activity 1\01 - Pentagon Class\obj\Debug\net10.0\Pentagon Class.pdb
+D:\ProgrammingStuff\CS222_CS2202_UrgellesJonMarcM\Laboratory Activity 1\01 - Pentagon Class\obj\Debug\net10.0\Pentagon Class.genruntimeconfig.cache
+D:\ProgrammingStuff\CS222_CS2202_UrgellesJonMarcM\Laboratory Activity 1\01 - Pentagon Class\obj\Debug\net10.0\ref\Pentagon Class.dll

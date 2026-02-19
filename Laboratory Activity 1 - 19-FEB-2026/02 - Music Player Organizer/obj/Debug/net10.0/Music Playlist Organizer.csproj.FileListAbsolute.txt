@@ -1,0 +1,30 @@
+D:\ProgrammingStuff\CS222_CS2202_UrgellesJonMarcM\Music Playlist Organizer\bin\Debug\net10.0\Music Playlist Organizer.exe
+D:\ProgrammingStuff\CS222_CS2202_UrgellesJonMarcM\Music Playlist Organizer\bin\Debug\net10.0\Music Playlist Organizer.deps.json
+D:\ProgrammingStuff\CS222_CS2202_UrgellesJonMarcM\Music Playlist Organizer\bin\Debug\net10.0\Music Playlist Organizer.runtimeconfig.json
+D:\ProgrammingStuff\CS222_CS2202_UrgellesJonMarcM\Music Playlist Organizer\bin\Debug\net10.0\Music Playlist Organizer.dll
+D:\ProgrammingStuff\CS222_CS2202_UrgellesJonMarcM\Music Playlist Organizer\bin\Debug\net10.0\Music Playlist Organizer.pdb
+D:\ProgrammingStuff\CS222_CS2202_UrgellesJonMarcM\Music Playlist Organizer\obj\Debug\net10.0\Music Playlist Organizer.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgrammingStuff\CS222_CS2202_UrgellesJonMarcM\Music Playlist Organizer\obj\Debug\net10.0\Music Playlist Organizer.AssemblyInfoInputs.cache
+D:\ProgrammingStuff\CS222_CS2202_UrgellesJonMarcM\Music Playlist Organizer\obj\Debug\net10.0\Music Playlist Organizer.AssemblyInfo.cs
+D:\ProgrammingStuff\CS222_CS2202_UrgellesJonMarcM\Music Playlist Organizer\obj\Debug\net10.0\Music Playlist Organizer.csproj.CoreCompileInputs.cache
+D:\ProgrammingStuff\CS222_CS2202_UrgellesJonMarcM\Music Playlist Organizer\obj\Debug\net10.0\Music Playlist Organizer.sourcelink.json
+D:\ProgrammingStuff\CS222_CS2202_UrgellesJonMarcM\Music Playlist Organizer\obj\Debug\net10.0\Music Playlist Organizer.dll
+D:\ProgrammingStuff\CS222_CS2202_UrgellesJonMarcM\Music Playlist Organizer\obj\Debug\net10.0\refint\Music Playlist Organizer.dll
+D:\ProgrammingStuff\CS222_CS2202_UrgellesJonMarcM\Music Playlist Organizer\obj\Debug\net10.0\Music Playlist Organizer.pdb
+D:\ProgrammingStuff\CS222_CS2202_UrgellesJonMarcM\Music Playlist Organizer\obj\Debug\net10.0\Music Playlist Organizer.genruntimeconfig.cache
+D:\ProgrammingStuff\CS222_CS2202_UrgellesJonMarcM\Music Playlist Organizer\obj\Debug\net10.0\ref\Music Playlist Organizer.dll
+D:\ProgrammingStuff\CS222_CS2202_UrgellesJonMarcM\Laboratory Activity 1\02 - Music Playlist Organizer\bin\Debug\net10.0\Music Playlist Organizer.exe
+D:\ProgrammingStuff\CS222_CS2202_UrgellesJonMarcM\Laboratory Activity 1\02 - Music Playlist Organizer\bin\Debug\net10.0\Music Playlist Organizer.deps.json
+D:\ProgrammingStuff\CS222_CS2202_UrgellesJonMarcM\Laboratory Activity 1\02 - Music Playlist Organizer\bin\Debug\net10.0\Music Playlist Organizer.runtimeconfig.json
+D:\ProgrammingStuff\CS222_CS2202_UrgellesJonMarcM\Laboratory Activity 1\02 - Music Playlist Organizer\bin\Debug\net10.0\Music Playlist Organizer.dll
+D:\ProgrammingStuff\CS222_CS2202_UrgellesJonMarcM\Laboratory Activity 1\02 - Music Playlist Organizer\bin\Debug\net10.0\Music Playlist Organizer.pdb
+D:\ProgrammingStuff\CS222_CS2202_UrgellesJonMarcM\Laboratory Activity 1\02 - Music Playlist Organizer\obj\Debug\net10.0\Music Playlist Organizer.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgrammingStuff\CS222_CS2202_UrgellesJonMarcM\Laboratory Activity 1\02 - Music Playlist Organizer\obj\Debug\net10.0\Music Playlist Organizer.AssemblyInfoInputs.cache
+D:\ProgrammingStuff\CS222_CS2202_UrgellesJonMarcM\Laboratory Activity 1\02 - Music Playlist Organizer\obj\Debug\net10.0\Music Playlist Organizer.AssemblyInfo.cs
+D:\ProgrammingStuff\CS222_CS2202_UrgellesJonMarcM\Laboratory Activity 1\02 - Music Playlist Organizer\obj\Debug\net10.0\Music Playlist Organizer.csproj.CoreCompileInputs.cache
+D:\ProgrammingStuff\CS222_CS2202_UrgellesJonMarcM\Laboratory Activity 1\02 - Music Playlist Organizer\obj\Debug\net10.0\Music Playlist Organizer.sourcelink.json
+D:\ProgrammingStuff\CS222_CS2202_UrgellesJonMarcM\Laboratory Activity 1\02 - Music Playlist Organizer\obj\Debug\net10.0\Music Playlist Organizer.dll
+D:\ProgrammingStuff\CS222_CS2202_UrgellesJonMarcM\Laboratory Activity 1\02 - Music Playlist Organizer\obj\Debug\net10.0\refint\Music Playlist Organizer.dll
+D:\ProgrammingStuff\CS222_CS2202_UrgellesJonMarcM\Laboratory Activity 1\02 - Music Playlist Organizer\obj\Debug\net10.0\Music Playlist Organizer.pdb
+D:\ProgrammingStuff\CS222_CS2202_UrgellesJonMarcM\Laboratory Activity 1\02 - Music Playlist Organizer\obj\Debug\net10.0\Music Playlist Organizer.genruntimeconfig.cache
+D:\ProgrammingStuff\CS222_CS2202_UrgellesJonMarcM\Laboratory Activity 1\02 - Music Playlist Organizer\obj\Debug\net10.0\ref\Music Playlist Organizer.dll
